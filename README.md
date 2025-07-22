@@ -12,12 +12,12 @@ Project consists of a simple PowerShell script that walks the user through "zero
 - <b>Cisco Packet Tracer 
 
 
-
-<h2>Program walk-through:</h2>
+<h2>Design walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up connections and VLANs: <br/>
+<img width="1500" height="500" alt="Campus Network Design PNG 1" src="https://github.com/user-attachments/assets/c622571a-f281-4bd3-89f2-6642357c01c7" />
+
 <br />
 <br />
 Select the disk:  <br/>
