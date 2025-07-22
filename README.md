@@ -25,8 +25,9 @@ Configuring initial routers:  <br/>
 
 <br />
 <br />
-Configuring VLANs: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring VLANs (Layer 2 Switches): <br/>
+<img width="1662" height="787" alt="image" src="https://github.com/user-attachments/assets/3449bf7b-149f-4f96-bf7c-7effccdb861f" />
+
 <br />
 <br />
 Confirm your selection:  <br/>
