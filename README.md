@@ -15,17 +15,17 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Design walk-through:</h2>
 
 <p align="center">
-Setting up connections and VLANs: <br/>
+Setting up connections and deisgn: <br/>
 <img width="1500" height="500" alt="Campus Network Design PNG 1" src="https://github.com/user-attachments/assets/c622571a-f281-4bd3-89f2-6642357c01c7" />
 
 <br />
 <br />
-Configuring routers:  <br/>
+Configuring initial routers:  <br/>
 <img width="1568" height="897" alt="image" src="https://github.com/user-attachments/assets/7f3cd08d-388b-4634-b313-e3c34e22f88d" />
 
 <br />
 <br />
-Enter the number of passes: <br/>
+Configuring VLANs: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
