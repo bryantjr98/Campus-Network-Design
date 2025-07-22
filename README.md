@@ -20,8 +20,9 @@ Setting up connections and VLANs: <br/>
 
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring routers:  <br/>
+<img width="1568" height="897" alt="image" src="https://github.com/user-attachments/assets/7f3cd08d-388b-4634-b313-e3c34e22f88d" />
+
 <br />
 <br />
 Enter the number of passes: <br/>
