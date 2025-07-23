@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-This project is a comprehensive **Cisco Packet Tracer simulation** of a full-scale **campus network** for an academic institution spanning **multiple buildings** and **two physical campuses** (Main and Branch). The network is segmented by **departments and functions**, leveraging VLANs and inter-VLAN routing to ensure performance, scalability, and logical separation of traffic.
+This project is a comprehensive Cisco Packet Tracer simulation of a full-scale campus network for an academic institution spanning multiple buildings and two physical campuses (Houston Main Branch and Katy Branch). The network is segmented by departments and functions, leveraging VLANs and inter-VLAN routing to ensure performance, scalability, and logical separation of traffic.
 <br />
 
 
