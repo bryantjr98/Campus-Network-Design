@@ -35,12 +35,9 @@ DHCP Configuration of Main Campus:  <br/>
 
 <br />
 <br />
-DHCP Configuration of Katy Campus:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Pinging different VLANs for confirmation:  <br/>
+<img width="1367" height="811" alt="image" src="https://github.com/user-attachments/assets/0d5f5728-fa07-49cf-a75a-0d0e26ac6df4" />
+
 <br />
 <br />
 Observe the wiped disk:  <br/>
