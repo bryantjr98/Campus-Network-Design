@@ -30,11 +30,12 @@ Configuring VLANs (Layer 2 Switches): <br/>
 
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+DHCP Configuration of Main Campus:  <br/>
+<img width="1862" height="864" alt="image" src="https://github.com/user-attachments/assets/3a5f1327-675f-4428-9e80-700b1313a1ea" />
+
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+DHCP Configuration of Katy Campus:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
