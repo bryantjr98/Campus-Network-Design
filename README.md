@@ -40,8 +40,9 @@ Pinging different VLANs for confirmation:  <br/>
 
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Finalized Campus Design:  <br/>
+<img width="2345" height="838" alt="Campus Network Design PNG 2" src="https://github.com/user-attachments/assets/bd32bcfc-f2d2-4f59-90f0-d2377fad34c7" />
+
 </p>
 
 <!--
